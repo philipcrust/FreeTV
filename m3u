@@ -1,0 +1,111 @@
+#EXTM3U 
+#EXTINF:-1 tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL * | CL
+https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8
+#EXTINF:-1 tvg-id="319374" tvg-name="Adult Swim LA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png", Adult Swim LA
+http://181.119.86.1:8000/play/a019?PlaylistM3UCL
+#EXTINF:-1 tvg-id="314939" tvg-name="AniFun" tvg-logo="https://i.postimg.cc/qvQTy1BF/Japan-2.png", AniFun
+https://live20.bozztv.com/giatv/giatv-FunTVEste/FunTVEste/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="317484" tvg-name="Anime Onegai" tvg-logo="https://i.postimg.cc/z3YqhBY8/1732574429510.jpg", Anime Onegai
+https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="307748" tvg-name="AnimeStation" tvg-logo="https://i.postimg.cc/R01LwkbK/Dise-o-sin-t-tulo-20.png", AnimeStation
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="317875" tvg-name="Anime Vision" tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png?fbclid=IwY2xjawJS0R1leHRuA2FlbQIxMAABHfdrsnCwOd_z2m0RaOi0gnSEdbqx3rywbrGG_xHQm8wzC8lEKlpaXLA3QQ_aem_2FZeF-cYCGCuaUpJMJXUZA", Anime Vision
+https://daiconnect.com/live/hls/tvup/tvfy-animevision/.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="317876" tvg-name="Anime Vision Classics" tvg-logo="https://i.ibb.co/TD1wyybD/Logo-Anime-Vision-Classics.png?fbclid=IwY2xjawJS0fRleHRuA2FlbQIxMAABHW3EIdh5vaYeZ6bo2h6kuCSyJSQ88EB9jEBf9A3OaudD0XJ3OpNqQTpsCg_aem_Lki0i5M885XVG8j3yHbQ5A", Anime Vision Classics
+https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="307749" tvg-name="AniRetro" tvg-logo="https://i.postimg.cc/D03hRbPt/435757743-122093226080292887-572220843076582151-n-jpg-1811-1811.png", AniRetro
+https://tv.arkeo.cl:19360/8000/8000.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="307828" tvg-name="Anime Zone TV" tvg-logo="https://i.postimg.cc/8CVPq9ky/298687569-470227431777335-9066269538815922962-n.png", Anime Zone TV
+http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="314183" tvg-name="Big TV" tvg-logo="https://i.postimg.cc/7YQgDTCd/Dise-o-sin-t-tulo-13.png", Big TV
+https://stream.gia.tv/giatv/giatv-bigtv/bigtv/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="307840" tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png", Boing
+http://185.189.225.150:85/boing/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319358" tvg-name="Cachipum! TV" tvg-logo="https://scontent.flsc3-1.fna.fbcdn.net/v/t39.30808-6/492184765_1802209537264693_8756898601775782370_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=05ZlDS2KwIQQ7kNvwFBO6wr&_nc_oc=Adm9BU8AatwjpIF_y7Ur3fNXW66jEjsuGwAXO1TbTJYb7dNcX5MfhVb8aNEWDIahFgM&_nc_zt=23&_nc_ht=scontent.flsc3-1.fna&_nc_gid=iXS_ICM-WVIPaFuz9Eyecg&oh=00_AfF3BX8HikOsIHzI_ThGCQh_2VkzQJI4lF7h_aB0PZ3IZA&oe=681D7949", Cachipum! TV
+https://scl.edge.grupoz.cl/streamcachi/live/chunklist_w415186720.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="317085" tvg-name="Cartoon Clásico LAT" tvg-logo="https://i.postimg.cc/k5fCJQGg/c.png", Cartoon Clásico LAT
+https://live20.bozztv.com/giatv/giatv-CartoonClasico/CartoonClasico/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="307841" tvg-name="Clan Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png", Clan Internacional
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319371" tvg-name="DBsuper" tvg-logo="", DBsuper
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/dbasup1/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="314837" tvg-name="DFTV Animación " tvg-logo="https://i.postimg.cc/vB10nmJZ/IMG-20250210-WA0000.jpg", DFTV Animación 
+https://xhateaec.com:8800/hls/orcoviejo/orcoviejo/2107442b41d993659c67b0e5974348af/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="317067" tvg-name="DFTV Movie" tvg-logo="https://i.postimg.cc/Gm5zd6Qg/IMG-20250224-WA0020.jpg", DFTV Movie
+https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/7c216bbd236f34cd57f833572018f2b8/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="307753" tvg-name="Dreiko TV" tvg-logo="https://play-lh.googleusercontent.com/MKxancjPSbqrJIaCcndA9s6VkmYrNZC1X4SR7hDaMvJKUMd33qTN6pob2mVkS8Azd2o=w240-h480-rw", Dreiko TV
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="307824" tvg-name="Energeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png", Energeek Retro
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65_output_0.m3u8?session=Ry6QP3dxofznwBB4PoQPAu&PlaylistM3UCL
+#EXTINF:-1 tvg-id="307822" tvg-name="Energeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png", Energeek FAN
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319379" tvg-name="Etc TV" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png", Etc TV
+http://45.181.122.46:8090/play/a00t?PlaylistM3UCL
+#EXTINF:-1 tvg-id="307751" tvg-name="FUNTV" tvg-logo="https://i.postimg.cc/bJ5cf41L/2.png", FUNTV
+https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="307835" tvg-name="Gogoplay Tv" tvg-logo="https://i.postimg.cc/c4YxQqgf/Dise-o-sin-t-tulo-19.png", Gogoplay Tv
+https://stream.gia.tv/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319370" tvg-name="Goku Tv" tvg-logo="", Goku Tv
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/dbsuperlat/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="313647" tvg-name="Kanade TV" tvg-logo="https://i2.paste.pics/f575ecb077e3501c6def6eea7e3806e8.png", Kanade TV
+https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="316494" tvg-name="Kids TV Español Latino" tvg-logo="https://i.postimg.cc/Jn4bXqPH/Dise-o-sin-t-tulo-27.png", Kids TV Español Latino
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/chunklist_w1835983151.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="307837" tvg-name="Locomotion" tvg-logo="https://i.postimg.cc/VN7B7qmk/d591e0bba96cfb3fbe0ae1a9e23ae2ed.png", Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="307754" tvg-name="Magic Kids" tvg-logo="https://i2.paste.pics/55bee1f7aa13803eacd319eaeb348b9a.png", Magic Kids
+https://giatv.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="307825" tvg-name="MagicKids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Magic_Kids_2001.png/revision/latest/scale-to-width-down/300?cb=20210525183411&path-prefix=es", MagicKids
+https://magicstream.ddns.net/magicstream/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="307842" tvg-name="Max Anime" tvg-logo="https://www.neotv.cl/assets/img/channels/max-anime-3-c.png", Max Anime
+https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="307756" tvg-name="Moni TV" tvg-logo="https://i2.paste.pics/dad53a17aceb11d80b7ec90ec2398f2f.png", Moni TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="316222" tvg-name="Moviplay TV" tvg-logo="", Moviplay TV
+https://stream.gia.tv/giatvplayout7/giatv-208708/tracks-v1a1/mono.ts.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="317619" tvg-name="Mr Bean toons" tvg-logo="https://i.ibb.co/87Q3Lf3/Logo-Mr-Bean.png?fbclid=IwY2xjawJAUndleHRuA2FlbQIxMAABHQ2hPVDDbdWeCepMyH67zJvvhT4_WcLk6v1fnsnNatzTxRVIl_0AeZUejg_aem_xNXoHNyrVHCE4wbtqwdf8A", Mr Bean toons
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320341" tvg-name="Mr Bean " tvg-logo="https://i.ibb.co/X5wkQRm/Logo-Mr-Bean.jpg", Mr Bean 
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="314846" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png", Nickelodeon
+http://185.189.225.150:85/nickelodeon/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="314185" tvg-name="NTV" tvg-logo="https://tuplay.cl/pagina/images/ntv.png", NTV
+https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="312027" tvg-name="Opinión Sur Niños" tvg-logo="https://cdn.m3u.cl/logo/1619_Opinionsur_Ninos.png", Opinión Sur Niños
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/opinionsurn/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="317620" tvg-name="Planeta TV Junior" tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png?fbclid=IwY2xjawJAUwZleHRuA2FlbQIxMAABHUOInzpBILXAtOXIzp7loMDPj0f2qLbSUNF9ncEoTrMgmjVF68K6PuUFrg_aem_b2G9irOhzpKrNZl53hM6gA", Planeta TV Junior
+https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320340" tvg-name="Plétora Kids" tvg-logo="https://i.postimg.cc/BvkyHbcV/Captura-de-pantalla-2025-05-17-133256.png", Plétora Kids
+https://stream.gia.tv/giatv/giatv-PletoraKids/PletoraKids/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="316445" tvg-name="Retrotoons" tvg-logo="https://i.postimg.cc/ZRbp9bvv/Dise-o-sin-t-tulo-22.png", Retrotoons
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/retrotoons/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="307821" tvg-name="Retro Magico" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png", Retro Magico
+https://stream.gia.tv/giatv/giatv-retromagico/retromagico/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319373" tvg-name="Senpai TV" tvg-logo="https://i.ibb.co/PsLppcXx/Logo-Senpai-TV.png", Senpai TV
+http://45.184.87.142:8000/play/a021?PlaylistM3UCL
+#EXTINF:-1 tvg-id="317622" tvg-name="Smurfs TV" tvg-logo="https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png?fbclid=IwY2xjawJAVWZleHRuA2FlbQIxMAABHRtDBoDhPNYq0C7S-CD2fHZg1FaE1OANzD1pLFeDQ1yPkofYdw3KOIOvUQ_aem_Vrvak9kopwh9zKmR_fiEWQ", Smurfs TV
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="307826" tvg-name="Taltal TV" tvg-logo="https://i.postimg.cc/3rfyDQKD/Dise-o-sin-t-tulo-16.png", Taltal TV
+https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="314647" tvg-name="Taltal TV 2" tvg-logo="https://i.postimg.cc/zB5hpCMb/Dise-o-sin-t-tulo-15.png", Taltal TV 2
+https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="314845" tvg-name="Taltal TV 3" tvg-logo="https://i.postimg.cc/zB5hpCMb/Dise-o-sin-t-tulo-15.png", Taltal TV 3
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/animacion/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319362" tvg-name="Teleanimemania" tvg-logo="https://scontent.flsc3-1.fna.fbcdn.net/v/t39.30808-6/492314455_1241816787945943_1363720226608019343_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=unPT_EsB19IQ7kNvwFerS8c&_nc_oc=Adm4ywG5wpJ-gmQ-r44kS2-4TkMS9AF70QbsFXcpU1jseKA_ySNXfgEJaofuyM0iN78&_nc_zt=23&_nc_ht=scontent.flsc3-1.fna&_nc_gid=2WAZEZ6Myam_ztAxJPSyyw&oh=00_AfHy_O6QwGph9fHDxx0oDrZISLlazn9baUUqmO4ATtwrRQ&oe=681D995F", Teleanimemania
+https://stream.gia.tv/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320664" tvg-name="Toonami" tvg-logo="https://scontent.flsc3-1.fna.fbcdn.net/v/t39.30808-6/366821044_6595231937204725_7965016748646823417_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=2285d6&_nc_eui2=AeHfKDSCHi5P-kHlf5CJQbMHhLaOfVivTceEto59WK9NxzCVFr4N9mmVNkCRZqpe4CUtlw1N9HGZEUH6xlfkhEFw&_nc_ohc=7EZrooMzX84Q7kNvwFlfyFG&_nc_oc=Adl6yGtQoEJ-kcVRwiRZCwNrdLQaFniYATA6Vvv-huAcrdRuf35nYS-VgonTtf_SfcE&_nc_zt=23&_nc_ht=scontent.flsc3-1.fna&_nc_gid=V0nlcocHdpuQWLOfgj4wEA&oh=00_AfLalbYFmiZvDbY6EbuWOBB67rRh0zLnRnnPNOwvmQu1rQ&oe=68342A54", Toonami
+https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="316223" tvg-name="Toonkids" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5f58965018411c0ef81df7c6b596ad54.webp", Toonkids
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/8ab814b1-394e-4682-8160-e2f89c1c127e/1.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="307820" tvg-name="VariedTV" tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png", VariedTV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="314974" tvg-name="WEPA TV" tvg-logo="https://i.postimg.cc/W1g6n13y/WEPA-TV.png", WEPA TV
+https://ssh101-fl.bozztv.com/ssh101/tvwxfxxgo/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320339" tvg-name="Zas Tv" tvg-logo="https://i.ibb.co/sFwwMyt/logo-Zaz-TV.png", Zas Tv
+https://stream-us-east-1.getpublica.com/cl/250517d0kcbjmik31m5truqqh0/1280x720_1500000_0_f.m3u8?i=1187_13012&PlaylistM3UCL
+#EXTINF:-1 tvg-id="317621" tvg-name="Zkids" tvg-logo="https://i.ibb.co/VJ8NWxm/Logo-Z-Kids.png?fbclid=IwY2xjawJAVLNleHRuA2FlbQIxMAABHRtDBoDhPNYq0C7S-CD2fHZg1FaE1OANzD1pLFeDQ1yPkofYdw3KOIOvUQ_aem_Vrvak9kopwh9zKmR_fiEWQ", Zkids
+https://mitv.zplay.cl/Zkids/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="308397" tvg-name="ZTV" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", ZTV
+https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8?WebM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="319359" tvg-name="Zyoon Tv" tvg-logo="https://scontent.flsc3-1.fna.fbcdn.net/v/t39.30808-6/492905186_122111880926834294_1388037305790520098_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ko4UFqAEv-IQ7kNvwF_YilW&_nc_oc=AdnsV68osy7_XqY00q6fVLYPLFwhBdTGYdFPR-8SJLDscSRRLtLjH0iGnXCi4pblhGQ&_nc_zt=23&_nc_ht=scontent.flsc3-1.fna&_nc_gid=BGVfLqMDfZGsVPT5hfkd1Q&oh=00_AfEtC9THoii0eaT7Tqod4ywa2qMwfN5KgHbN2PGS82H2Ng&oe=681D6C82", Zyoon Tv
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/onlinezyoontv/chunks.m3u8?PlaylistM3UCL
