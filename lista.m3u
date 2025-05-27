@@ -1,6 +1,4 @@
 #EXTM3U 
-#EXTINF:-1 tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL * | CL
-https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8
 #EXTINF:-1 tvg-id="319374" tvg-name="Adult Swim LA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png", Adult Swim LA
 http://181.119.86.1:8000/play/a019?PlaylistM3UCL
 #EXTINF:-1 tvg-id="314939" tvg-name="AniFun" tvg-logo="https://i.postimg.cc/qvQTy1BF/Japan-2.png", AniFun
@@ -83,6 +81,8 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/retrotoons/chunks.m3u8?Playl
 https://stream.gia.tv/giatv/giatv-retromagico/retromagico/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319373" tvg-name="Senpai TV" tvg-logo="https://i.ibb.co/PsLppcXx/Logo-Senpai-TV.png", Senpai TV
 http://45.184.87.142:8000/play/a021?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320883" tvg-name="Simpsonmania" tvg-logo="https://th.bing.com/th/id/R.eb7efa4d0f337e530db423014b1a41a3?rik=8xeyqZDTcBt8%2bA&riu=http%3a%2f%2fimg1.wikia.nocookie.net%2f__cb20140218184100%2fdoblaje%2fes%2fimages%2f1%2f1a%2fThe_Simpsons_title_screen_HD.png&ehk=15UsjyvHUg8jWvGAul27ik3fmgc%2bIGCbiVfDbOdqIgI%3d&risl=&pid=ImgRaw&r=0", Simpsonmania
+https://live20.bozztv.com/akamaissh101/ssh101/simpz1/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="317622" tvg-name="Smurfs TV" tvg-logo="https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png?fbclid=IwY2xjawJAVWZleHRuA2FlbQIxMAABHRtDBoDhPNYq0C7S-CD2fHZg1FaE1OANzD1pLFeDQ1yPkofYdw3KOIOvUQ_aem_Vrvak9kopwh9zKmR_fiEWQ", Smurfs TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307826" tvg-name="Taltal TV" tvg-logo="https://i.postimg.cc/3rfyDQKD/Dise-o-sin-t-tulo-16.png", Taltal TV
@@ -107,5 +107,7 @@ https://stream-us-east-1.getpublica.com/cl/250517d0kcbjmik31m5truqqh0/1280x720_1
 https://mitv.zplay.cl/Zkids/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="308397" tvg-name="ZTV" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", ZTV
 https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8?WebM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="319359" tvg-name="Zyoon Tv" tvg-logo="https://scontent.flsc3-1.fna.fbcdn.net/v/t39.30808-6/492905186_122111880926834294_1388037305790520098_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ko4UFqAEv-IQ7kNvwF_YilW&_nc_oc=AdnsV68osy7_XqY00q6fVLYPLFwhBdTGYdFPR-8SJLDscSRRLtLjH0iGnXCi4pblhGQ&_nc_zt=23&_nc_ht=scontent.flsc3-1.fna&_nc_gid=BGVfLqMDfZGsVPT5hfkd1Q&oh=00_AfEtC9THoii0eaT7Tqod4ywa2qMwfN5KgHbN2PGS82H2Ng&oe=681D6C82", Zyoon Tv
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/onlinezyoontv/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319359" tvg-name="Zyoon Tv" tvg-logo="https://scontent.flsc3-1.fna.fbcdn.net/v/t39.30808-6/492905186_122111880926834294_1388037305790520098_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ko4UFqAEv-IQ7kNvwF_YilW&_nc_oc=AdnsV68osy7_XqY00q6fVLYPLFwhBdTGYdFPR-8SJLDscSRRLtLjH0iGnXCi4pblhGQ&_nc_zt=23&_nc_ht=scontent.flsc3-1.fna&_nc_gid=BGVfLqMDfZGsVPT5hfkd1Q&oh=00_AfEtC9THoii0eaT7Tqod4ywa2qMwfN5KgHbN2PGS82H2Ng&oe=681D6C82", Zyoon Tv
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/onlinezyoontv/chunks.m3u8?PlaylistM3UCL
