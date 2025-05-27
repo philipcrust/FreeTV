@@ -25,10 +25,6 @@ https://scl.edge.grupoz.cl/streamcachi/live/chunklist_w415186720.m3u8?PlaylistM3
 https://live20.bozztv.com/giatv/giatv-CartoonClasico/CartoonClasico/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307841" tvg-name="Clan Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319371" tvg-name="DBall" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Dragon-Ball-Logotipo-1986-1989.jpg", DBall
-https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
-#EXTINF:-1 tvg-id="319371" tvg-name="DBsuper" tvg-logo="", DBsuper
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/dbasup1/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="314837" tvg-name="DFTV Animación " tvg-logo="https://i.postimg.cc/vB10nmJZ/IMG-20250210-WA0000.jpg", DFTV Animación 
 https://xhateaec.com:8800/hls/orcoviejo/orcoviejo/2107442b41d993659c67b0e5974348af/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="317067" tvg-name="DFTV Movie" tvg-logo="https://i.postimg.cc/Gm5zd6Qg/IMG-20250224-WA0020.jpg", DFTV Movie
@@ -45,8 +41,8 @@ http://45.181.122.46:8090/play/a00t?PlaylistM3UCL
 https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307835" tvg-name="Gogoplay Tv" tvg-logo="https://i.postimg.cc/c4YxQqgf/Dise-o-sin-t-tulo-19.png", Gogoplay Tv
 https://stream.gia.tv/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319370" tvg-name="Goku Tv" tvg-logo="", Goku Tv
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/dbsuperlat/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319370" tvg-name="Goku Tv" tvg-logo="https://yt3.ggpht.com/a/AATXAJwFRUp3aOxxpg4Ry4Uw2bFRoT-IlZguUuWkYQ=s900-c-k-c0xffffffff-no-rj-mo", Goku Tv
+https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 #EXTINF:-1 tvg-id="313647" tvg-name="Kanade TV" tvg-logo="https://i2.paste.pics/f575ecb077e3501c6def6eea7e3806e8.png", Kanade TV
 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316494" tvg-name="Kids TV Español Latino" tvg-logo="https://i.postimg.cc/Jn4bXqPH/Dise-o-sin-t-tulo-27.png", Kids TV Español Latino
