@@ -50,7 +50,7 @@ https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/chunklist_w1835983151
 #EXTINF:-1 tvg-id="307837" tvg-name="Locomotion" tvg-logo="https://i.postimg.cc/VN7B7qmk/d591e0bba96cfb3fbe0ae1a9e23ae2ed.png", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307754" tvg-name="Magic Kids" tvg-logo="https://i2.paste.pics/55bee1f7aa13803eacd319eaeb348b9a.png", Magic Kids
-https://giatv.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8?PlaylistM3UCL
+https://live20.bozztv.com/akamaissh101/ssh101/magic2019/playlist.m3u8
 #EXTINF:-1 tvg-id="307825" tvg-name="MagicKids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Magic_Kids_2001.png/revision/latest/scale-to-width-down/300?cb=20210525183411&path-prefix=es", MagicKids
 https://magicstream.ddns.net/magicstream/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307842" tvg-name="Max Anime" tvg-logo="https://www.neotv.cl/assets/img/channels/max-anime-3-c.png", Max Anime
@@ -74,9 +74,9 @@ https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320340" tvg-name="Plétora Kids" tvg-logo="https://i.postimg.cc/BvkyHbcV/Captura-de-pantalla-2025-05-17-133256.png", Plétora Kids
 https://stream.gia.tv/giatv/giatv-PletoraKids/PletoraKids/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316445" tvg-name="Retrotoons" tvg-logo="https://i.postimg.cc/ZRbp9bvv/Dise-o-sin-t-tulo-22.png", Retrotoons
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/retrotoons/chunks.m3u8?PlaylistM3UCL
+https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8
 #EXTINF:-1 tvg-id="307821" tvg-name="Retro Magico" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png", Retro Magico
-https://stream.gia.tv/giatv/giatv-retromagico/retromagico/chunks.m3u8?PlaylistM3UCL
+https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/chunks.m3u8
 #EXTINF:-1 tvg-id="319373" tvg-name="Senpai TV" tvg-logo="https://i.ibb.co/PsLppcXx/Logo-Senpai-TV.png", Senpai TV
 http://45.184.87.142:8000/play/a021?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320883" tvg-name="Simpsonmania" tvg-logo="https://th.bing.com/th/id/R.eb7efa4d0f337e530db423014b1a41a3?rik=8xeyqZDTcBt8%2bA&riu=http%3a%2f%2fimg1.wikia.nocookie.net%2f__cb20140218184100%2fdoblaje%2fes%2fimages%2f1%2f1a%2fThe_Simpsons_title_screen_HD.png&ehk=15UsjyvHUg8jWvGAul27ik3fmgc%2bIGCbiVfDbOdqIgI%3d&risl=&pid=ImgRaw&r=0", Simpsonmania
