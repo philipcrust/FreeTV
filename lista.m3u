@@ -99,10 +99,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="314974" tvg-name="WEPA TV" tvg-logo="https://i.postimg.cc/W1g6n13y/WEPA-TV.png", WEPA TV
 https://live20.bozztv.com/akamaissh101/ssh101/tvwxfxxgo/chunks.m3u      
-#EXTINF:-1 tvg-id="320339" tvg-name="Zas Tv" tvg-logo="https://i.ibb.co/sFwwMyt/logo-Zaz-TV.png", Zas Tv
-https://stream-us-east-1.getpublica.com/cl/250517d0kcbjmik31m5truqqh0/1280x720_1500000_0_f.m3u8?i=1187_13012&PlaylistM3UCL
-#EXTINF:-1 tvg-id="317621" tvg-name="Zkids" tvg-logo="https://i.ibb.co/VJ8NWxm/Logo-Z-Kids.png?fbclid=IwY2xjawJAVLNleHRuA2FlbQIxMAABHRtDBoDhPNYq0C7S-CD2fHZg1FaE1OANzD1pLFeDQ1yPkofYdw3KOIOvUQ_aem_Vrvak9kopwh9zKmR_fiEWQ", Zkids
-https://mitv.zplay.cl/Zkids/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320339" tvg-name="Zaz Tv" tvg-logo="https://i.ibb.co/sFwwMyt/logo-Zaz-TV.png", Zaz Tv
+https://stream-us-east-1.getpublica.com/cl/250527d0qjrkos9ni60a33nlag/1280x720_1500000_0_f.m3u8
 #EXTINF:-1 tvg-id="308397" tvg-name="ZTV" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", ZTV
 https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8?WebM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319359" tvg-name="Zyoon Tv" tvg-logo="https://i.postimg.cc/Twnf4THj/zyoon.jpg", Zyoon Tv
