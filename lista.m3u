@@ -83,11 +83,11 @@ http://45.184.87.142:8000/play/a021?PlaylistM3UCL
 https://live20.bozztv.com/akamaissh101/ssh101/simpz1/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="317622" tvg-name="Smurfs TV" tvg-logo="https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png?fbclid=IwY2xjawJAVWZleHRuA2FlbQIxMAABHRtDBoDhPNYq0C7S-CD2fHZg1FaE1OANzD1pLFeDQ1yPkofYdw3KOIOvUQ_aem_Vrvak9kopwh9zKmR_fiEWQ", Smurfs TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="307826" tvg-name="Taltal TV Canal de anime" tvg-logo="https://i.postimg.cc/3rfyDQKD/Dise-o-sin-t-tulo-16.png", Taltal TV
+#EXTINF:-1 tvg-id="307826" tvg-name="Taltal TV Canal de anime" tvg-logo="https://i.postimg.cc/3rfyDQKD/Dise-o-sin-t-tulo-16.png", Taltal TV Canal de anime
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="314647" tvg-name="Taltal TV" tvg-logo="https://i.postimg.cc/zB5hpCMb/Dise-o-sin-t-tulo-15.png", Taltal TV 2
+#EXTINF:-1 tvg-id="314647" tvg-name="Taltal TV" tvg-logo="https://i.postimg.cc/zB5hpCMb/Dise-o-sin-t-tulo-15.png", Taltal TV
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="314845" tvg-name="Taltal TV Mix" tvg-logo="https://i.postimg.cc/zB5hpCMb/Dise-o-sin-t-tulo-15.png", Taltal TV 3
+#EXTINF:-1 tvg-id="314845" tvg-name="Taltal TV Mix" tvg-logo="https://i.postimg.cc/zB5hpCMb/Dise-o-sin-t-tulo-15.png", Taltal TV Mix
 https://live20.bozztv.com/akamaissh101/ssh101/animacion/chunks.m3u8
 #EXTINF:-1 tvg-id="319362" tvg-name="Teleanimemania" tvg-logo="https://i.postimg.cc/Kz3DXHnD/teleanime.jpg", Teleanimemania
 https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8
