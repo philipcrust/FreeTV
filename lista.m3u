@@ -6,7 +6,7 @@ https://live20.bozztv.com/giatv/giatv-FunTVEste/FunTVEste/chunks.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="317484" tvg-name="Anime Onegai" tvg-logo="https://i.postimg.cc/z3YqhBY8/1732574429510.jpg", Anime Onegai
 https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307748" tvg-name="AnimeStation" tvg-logo="https://i.postimg.cc/R01LwkbK/Dise-o-sin-t-tulo-20.png", AnimeStation
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8?PlaylistM3UCL
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
 #EXTINF:-1 tvg-id="317875" tvg-name="Anime Vision" tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png?fbclid=IwY2xjawJS0R1leHRuA2FlbQIxMAABHfdrsnCwOd_z2m0RaOi0gnSEdbqx3rywbrGG_xHQm8wzC8lEKlpaXLA3QQ_aem_2FZeF-cYCGCuaUpJMJXUZA", Anime Vision
 https://daiconnect.com/live/hls/tvup/tvfy-animevision/.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="317876" tvg-name="Anime Vision Classics" tvg-logo="https://i.ibb.co/TD1wyybD/Logo-Anime-Vision-Classics.png?fbclid=IwY2xjawJS0fRleHRuA2FlbQIxMAABHW3EIdh5vaYeZ6bo2h6kuCSyJSQ88EB9jEBf9A3OaudD0XJ3OpNqQTpsCg_aem_Lki0i5M885XVG8j3yHbQ5A", Anime Vision Classics
@@ -83,12 +83,12 @@ http://45.184.87.142:8000/play/a021?PlaylistM3UCL
 https://live20.bozztv.com/akamaissh101/ssh101/simpz1/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="317622" tvg-name="Smurfs TV" tvg-logo="https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png?fbclid=IwY2xjawJAVWZleHRuA2FlbQIxMAABHRtDBoDhPNYq0C7S-CD2fHZg1FaE1OANzD1pLFeDQ1yPkofYdw3KOIOvUQ_aem_Vrvak9kopwh9zKmR_fiEWQ", Smurfs TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="307826" tvg-name="Taltal TV" tvg-logo="https://i.postimg.cc/3rfyDQKD/Dise-o-sin-t-tulo-16.png", Taltal TV
+#EXTINF:-1 tvg-id="307826" tvg-name="Taltal TV Canal de anime" tvg-logo="https://i.postimg.cc/3rfyDQKD/Dise-o-sin-t-tulo-16.png", Taltal TV
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="314647" tvg-name="Taltal TV 2" tvg-logo="https://i.postimg.cc/zB5hpCMb/Dise-o-sin-t-tulo-15.png", Taltal TV 2
+#EXTINF:-1 tvg-id="314647" tvg-name="Taltal TV" tvg-logo="https://i.postimg.cc/zB5hpCMb/Dise-o-sin-t-tulo-15.png", Taltal TV 2
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="314845" tvg-name="Taltal TV 3" tvg-logo="https://i.postimg.cc/zB5hpCMb/Dise-o-sin-t-tulo-15.png", Taltal TV 3
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/animacion/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="314845" tvg-name="Taltal TV Mix" tvg-logo="https://i.postimg.cc/zB5hpCMb/Dise-o-sin-t-tulo-15.png", Taltal TV 3
+https://live20.bozztv.com/akamaissh101/ssh101/animacion/chunks.m3u8
 #EXTINF:-1 tvg-id="319362" tvg-name="Teleanimemania" tvg-logo="https://i.postimg.cc/Kz3DXHnD/teleanime.jpg", Teleanimemania
 https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="320664" tvg-name="Toonami" tvg-logo="https://scontent.flsc3-1.fna.fbcdn.net/v/t39.30808-6/366821044_6595231937204725_7965016748646823417_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=2285d6&_nc_eui2=AeHfKDSCHi5P-kHlf5CJQbMHhLaOfVivTceEto59WK9NxzCVFr4N9mmVNkCRZqpe4CUtlw1N9HGZEUH6xlfkhEFw&_nc_ohc=7EZrooMzX84Q7kNvwFlfyFG&_nc_oc=Adl6yGtQoEJ-kcVRwiRZCwNrdLQaFniYATA6Vvv-huAcrdRuf35nYS-VgonTtf_SfcE&_nc_zt=23&_nc_ht=scontent.flsc3-1.fna&_nc_gid=V0nlcocHdpuQWLOfgj4wEA&oh=00_AfLalbYFmiZvDbY6EbuWOBB67rRh0zLnRnnPNOwvmQu1rQ&oe=68342A54", Toonami
