@@ -19,7 +19,7 @@ http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
 https://stream.gia.tv/giatv/giatv-bigtv/bigtv/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307840" tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png", Boing
 http://185.189.225.150:85/boing/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319358" tvg-name="Cachipum! TV" tvg-logo="https://scontent.flsc3-1.fna.fbcdn.net/v/t39.30808-6/492184765_1802209537264693_8756898601775782370_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=05ZlDS2KwIQQ7kNvwFBO6wr&_nc_oc=Adm9BU8AatwjpIF_y7Ur3fNXW66jEjsuGwAXO1TbTJYb7dNcX5MfhVb8aNEWDIahFgM&_nc_zt=23&_nc_ht=scontent.flsc3-1.fna&_nc_gid=iXS_ICM-WVIPaFuz9Eyecg&oh=00_AfF3BX8HikOsIHzI_ThGCQh_2VkzQJI4lF7h_aB0PZ3IZA&oe=681D7949", Cachipum! TV
+#EXTINF:-1 tvg-id="319358" tvg-name="Cachipum! TV" tvg-logo="https://i.ibb.co/gMR0LFdr/Logo-Cachipum-TV.jpg", Cachipum! TV
 https://scl.edge.grupoz.cl/streamcachi/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Familia HD" tvg-logo="https://i.ibb.co/X2HQcMY/Logo-Canal-Familia-HD.jpg", Canal Familia HD
 https://live-stream.iblups.com/video/c76a06ac5e24461dc5c453983cfb72ba88bccc1a.m3u8
