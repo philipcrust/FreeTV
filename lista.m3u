@@ -20,7 +20,9 @@ https://stream.gia.tv/giatv/giatv-bigtv/bigtv/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307840" tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png", Boing
 http://185.189.225.150:85/boing/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319358" tvg-name="Cachipum! TV" tvg-logo="https://scontent.flsc3-1.fna.fbcdn.net/v/t39.30808-6/492184765_1802209537264693_8756898601775782370_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=05ZlDS2KwIQQ7kNvwFBO6wr&_nc_oc=Adm9BU8AatwjpIF_y7Ur3fNXW66jEjsuGwAXO1TbTJYb7dNcX5MfhVb8aNEWDIahFgM&_nc_zt=23&_nc_ht=scontent.flsc3-1.fna&_nc_gid=iXS_ICM-WVIPaFuz9Eyecg&oh=00_AfF3BX8HikOsIHzI_ThGCQh_2VkzQJI4lF7h_aB0PZ3IZA&oe=681D7949", Cachipum! TV
-https://scl.edge.grupoz.cl/streamcachi/live/chunklist_w415186720.m3u8?PlaylistM3UCL
+https://scl.edge.grupoz.cl/streamcachi/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Familia HD" tvg-logo="https://i.ibb.co/X2HQcMY/Logo-Canal-Familia-HD.jpg", Canal Familia HD
+https://live-stream.iblups.com/video/c76a06ac5e24461dc5c453983cfb72ba88bccc1a.m3u8
 #EXTINF:-1 tvg-id="317085" tvg-name="Cartoon Clásico LAT" tvg-logo="https://i.postimg.cc/k5fCJQGg/c.png", Cartoon Clásico LAT
 https://live20.bozztv.com/giatv/giatv-CartoonClasico/CartoonClasico/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307841" tvg-name="Clan Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png", Clan Internacional
@@ -68,7 +70,9 @@ http://185.189.225.150:85/nickelodeon/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="314185" tvg-name="NTV" tvg-logo="https://tuplay.cl/pagina/images/ntv.png", NTV
 https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="312027" tvg-name="Opinión Sur Niños" tvg-logo="https://cdn.m3u.cl/logo/1619_Opinionsur_Ninos.png", Opinión Sur Niños
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/opinionsurn/chunks.m3u8?PlaylistM3UCL
+https://live20.bozztv.com/giatv/giatv-opinionsurn/opinionsurn/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZRy5V1wH/Logo-Oye-Arnold-Tv.jpg", Oye Arnold Tv
+https://live20.bozztv.com/giatv/giatv-Oye%20Arnold%20Tv/Oye%20Arnold%20Tv/playlist.m3u8
 #EXTINF:-1 tvg-id="317620" tvg-name="Planeta TV Junior" tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png?fbclid=IwY2xjawJAUwZleHRuA2FlbQIxMAABHUOInzpBILXAtOXIzp7loMDPj0f2qLbSUNF9ncEoTrMgmjVF68K6PuUFrg_aem_b2G9irOhzpKrNZl53hM6gA", Planeta TV Junior
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320340" tvg-name="Plétora Kids" tvg-logo="https://i.postimg.cc/BvkyHbcV/Captura-de-pantalla-2025-05-17-133256.png", Plétora Kids
