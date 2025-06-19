@@ -5,6 +5,17 @@ http://181.119.86.1:8000/play/a019?PlaylistM3UCL
 https://live20.bozztv.com/giatv/giatv-FunTVEste/FunTVEste/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="317484" tvg-name="Anime Onegai" tvg-logo="https://i.postimg.cc/z3YqhBY8/1732574429510.jpg", Anime Onegai
 https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8?PlaylistM3UCL
+https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal Anime Onegai 2" tvg-name="Canal Anime Onegai 2" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png", Canal Anime Onegai 2 HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
+#EXTINF:-1 tvg-id="Canal Anime Onegai 3" tvg-name="Canal Anime Onegai 3" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png", Canal Anime Onegai 3 HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11058
+#EXTINF:-1 tvg-id="Canal Anime Onegai 4" tvg-name="Canal Anime Onegai 4" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png", Canal Anime Onegai 4 HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11059
+#EXTINF:-1 tvg-id="Canal Anime Onegai 5" tvg-name="Canal Anime Onegai 5" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png", Canal Anime Onegai 5 HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11060
+#EXTINF:-1 tvg-id="Canal Anime Onegai 6" tvg-name="Canal Anime Onegai 6" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png", Canal Anime Onegai 6 HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11061
 #EXTINF:-1 tvg-id="307748" tvg-name="AnimeStation" tvg-logo="https://i.postimg.cc/R01LwkbK/Dise-o-sin-t-tulo-20.png", AnimeStation
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
 #EXTINF:-1 tvg-id="317875" tvg-name="Anime Vision" tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png?fbclid=IwY2xjawJS0R1leHRuA2FlbQIxMAABHfdrsnCwOd_z2m0RaOi0gnSEdbqx3rywbrGG_xHQm8wzC8lEKlpaXLA3QQ_aem_2FZeF-cYCGCuaUpJMJXUZA", Anime Vision
