@@ -42,7 +42,7 @@ http://45.181.122.46:8090/play/a00t?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307751" tvg-name="FUNTV" tvg-logo="https://i.postimg.cc/bJ5cf41L/2.png", FUNTV
 https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307835" tvg-name="Gogoplay Tv" tvg-logo="https://i.postimg.cc/c4YxQqgf/Dise-o-sin-t-tulo-19.png", Gogoplay Tv
-https://stream.gia.tv/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8?PlaylistM3UCL
+https://live20.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8
 #EXTINF:-1 tvg-id="319370" tvg-name="Goku Tv" tvg-logo="https://yt3.ggpht.com/a/AATXAJwFRUp3aOxxpg4Ry4Uw2bFRoT-IlZguUuWkYQ=s900-c-k-c0xffffffff-no-rj-mo", Goku Tv
 https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 #EXTINF:-1 tvg-id="313647" tvg-name="Kanade TV" tvg-logo="https://i2.paste.pics/f575ecb077e3501c6def6eea7e3806e8.png", Kanade TV
@@ -87,10 +87,10 @@ http://45.184.87.142:8000/play/a021?PlaylistM3UCL
 https://live20.bozztv.com/akamaissh101/ssh101/simpz1/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="317622" tvg-name="Smurfs TV" tvg-logo="https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png?fbclid=IwY2xjawJAVWZleHRuA2FlbQIxMAABHRtDBoDhPNYq0C7S-CD2fHZg1FaE1OANzD1pLFeDQ1yPkofYdw3KOIOvUQ_aem_Vrvak9kopwh9zKmR_fiEWQ", Smurfs TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="307826" tvg-name="Taltal TV Canal de anime" tvg-logo="https://i.postimg.cc/3rfyDQKD/Dise-o-sin-t-tulo-16.png", Taltal TV Canal de anime
-https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="307826" tvg-name="Taltal TV Anime" tvg-logo="https://i.postimg.cc/3rfyDQKD/Dise-o-sin-t-tulo-16.png", Taltal TV Anime
+https://live20.bozztv.com/akamaissh101/ssh101/taltal/chunks.m3u8
 #EXTINF:-1 tvg-id="314647" tvg-name="Taltal TV" tvg-logo="https://i.postimg.cc/zB5hpCMb/Dise-o-sin-t-tulo-15.png", Taltal TV
-https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8?PlaylistM3UCL
+https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
 #EXTINF:-1 tvg-id="314845" tvg-name="Taltal TV Mix" tvg-logo="https://i.postimg.cc/zB5hpCMb/Dise-o-sin-t-tulo-15.png", Taltal TV Mix
 https://live20.bozztv.com/akamaissh101/ssh101/animacion/chunks.m3u8
 #EXTINF:-1 tvg-id="319362" tvg-name="Teleanimemania" tvg-logo="https://i.postimg.cc/Kz3DXHnD/teleanime.jpg", Teleanimemania
@@ -100,9 +100,9 @@ https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="316223" tvg-name="Toonkids" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5f58965018411c0ef81df7c6b596ad54.webp", Toonkids
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/8ab814b1-394e-4682-8160-e2f89c1c127e/1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307820" tvg-name="VariedTV" tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png", VariedTV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8?PlaylistM3UCL
+https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8
 #EXTINF:-1 tvg-id="314974" tvg-name="WEPA TV" tvg-logo="https://i.postimg.cc/W1g6n13y/WEPA-TV.png", WEPA TV
-https://live20.bozztv.com/akamaissh101/ssh101/tvwxfxxgo/chunks.m3u      
+https://live20.bozztv.com/akamaissh101/ssh101/tvwxfxxgo/chunks.m3u8      
 #EXTINF:-1 tvg-id="320339" tvg-name="Zaz Tv" tvg-logo="https://i.ibb.co/sFwwMyt/logo-Zaz-TV.png", Zaz Tv
 https://stream-us-east-1.getpublica.com/cl/250527d0qjrkos9ni60a33nlag/1280x720_1500000_0_f.m3u8
 #EXTINF:-1 tvg-id="308397" tvg-name="ZTV" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", ZTV
