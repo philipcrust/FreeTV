@@ -26,7 +26,7 @@ https://tv.arkeo.cl:19360/8000/8000.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307828" tvg-name="Anime Zone TV" tvg-logo="https://i.postimg.cc/8CVPq9ky/298687569-470227431777335-9066269538815922962-n.png", Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="314183" tvg-name="Big TV" tvg-logo="https://i.postimg.cc/7YQgDTCd/Dise-o-sin-t-tulo-13.png", Big TV
-https://stream.gia.tv/giatv/giatv-bigtv/bigtv/chunks.m3u8?PlaylistM3UCL
+https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
 #EXTINF:-1 tvg-id="307840" tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png", Boing
 http://185.189.225.150:85/boing/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319358" tvg-name="Cachipum! TV" tvg-logo="https://i.ibb.co/gMR0LFdr/Logo-Cachipum-TV.jpg", Cachipum! TV
