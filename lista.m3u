@@ -93,7 +93,7 @@ https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8?PlaylistM3UCL
 https://live20.bozztv.com/akamaissh101/ssh101/taltal/chunks.m3u8
 #EXTINF:-1 tvg-id="314647" tvg-name="Taltal TV" tvg-logo="https://i.postimg.cc/zB5hpCMb/Dise-o-sin-t-tulo-15.png", Taltal TV
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
-#EXTINF:-1 tvg-id="314845" tvg-name="Taltal TV Mix" tvg-logo="https://i.postimg.cc/zB5hpCMb/Dise-o-sin-t-tulo-15.png", Taltal TV Mix
+#EXTINF:-1 tvg-id="314845" tvg-name="Taltal TV Clásico" tvg-logo="https://i.postimg.cc/zB5hpCMb/Dise-o-sin-t-tulo-15.png", Taltal TV Clásico
 https://live20.bozztv.com/akamaissh101/ssh101/animacion/chunks.m3u8
 #EXTINF:-1 tvg-id="319362" tvg-name="Teleanimemania" tvg-logo="https://i.postimg.cc/Kz3DXHnD/teleanime.jpg", Teleanimemania
 https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8
