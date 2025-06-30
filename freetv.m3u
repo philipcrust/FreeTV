@@ -50,7 +50,7 @@ http://45.181.122.46:8090/play/a00t?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307751" tvg-name="FUNTV" tvg-logo="https://i.postimg.cc/bJ5cf41L/2.png", FUNTV
 https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307835" tvg-name="Gogoplay Tv" tvg-logo="https://i.postimg.cc/c4YxQqgf/Dise-o-sin-t-tulo-19.png", Gogoplay Tv
-https://live20.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 #EXTINF:-1 tvg-id="319370" tvg-name="Goku Tv" tvg-logo="https://yt3.ggpht.com/a/AATXAJwFRUp3aOxxpg4Ry4Uw2bFRoT-IlZguUuWkYQ=s900-c-k-c0xffffffff-no-rj-mo", Goku Tv
 https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 #EXTINF:-1 tvg-id="313647" tvg-name="Kanade TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Kanade_TV.png", Kanade TV
