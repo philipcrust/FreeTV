@@ -73,6 +73,8 @@ https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg0
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="314846" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png", Nickelodeon
 http://185.189.225.150:85/nickelodeon/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="314846" tvg-name="Ninja TV" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png", Ninja TV
+https://mitv.zplay.cl/Ninja_Channel/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-id="312027" tvg-name="Opinión Sur Niños" tvg-logo="https://cdn.m3u.cl/logo/1619_Opinionsur_Ninos.png", Opinión Sur Niños
 https://live20.bozztv.com/giatv/giatv-opinionsurn/opinionsurn/playlist.m3u8
 #EXTINF:-1 tvg-id="317620" tvg-name="Planeta TV Junior" tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png?fbclid=IwY2xjawJAUwZleHRuA2FlbQIxMAABHUOInzpBILXAtOXIzp7loMDPj0f2qLbSUNF9ncEoTrMgmjVF68K6PuUFrg_aem_b2G9irOhzpKrNZl53hM6gA", Planeta TV Junior
