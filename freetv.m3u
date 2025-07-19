@@ -33,6 +33,8 @@ http://185.189.225.150:85/boing/playlist.m3u8?PlaylistM3UCL
 https://live20.bozztv.com/giatv/giatv-CartoonClasico/CartoonClasico/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307841" tvg-name="Clan Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="307841" tvg-name="DFTV" tvg-logo="https://i.postimg.cc/vB10nmJZ/IMG-20250210-WA0000.jpg", DFTV
+https://live20.bozztv.com/giatv/giatv-desiertofloridotvstream/desiertofloridotvstream/chunks.m3u8
 #EXTINF:-1 tvg-id="307753" tvg-name="Dreiko TV" tvg-logo="https://play-lh.googleusercontent.com/MKxancjPSbqrJIaCcndA9s6VkmYrNZC1X4SR7hDaMvJKUMd33qTN6pob2mVkS8Azd2o=w240-h480-rw", Dreiko TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307824" tvg-name="Energeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png", Energeek Retro
