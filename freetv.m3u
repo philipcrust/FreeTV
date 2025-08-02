@@ -47,6 +47,8 @@ https://xui-backend.energeek.cl/live/22/playlist.m3u8?username=dEmoweBeneRGEek20
 http://45.181.122.46:8090/play/a00t?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307751" tvg-name="FUNTV" tvg-logo="https://i.postimg.cc/bJ5cf41L/2.png", FUNTV
 https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="307835" tvg-name=Gen TV" tvg-logo="https://i.postimg.cc/zBtLBZT5/Captura-de-pantalla-2025-08-02-115410.png", Gen TV
+https://live-stream.iblups.com/video/742d100014934e52c9797c38412ff2bb6b079d31.m3u8
 #EXTINF:-1 tvg-id="307835" tvg-name="Gogoplay Tv" tvg-logo="https://i.postimg.cc/c4YxQqgf/Dise-o-sin-t-tulo-19.png", Gogoplay Tv
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 #EXTINF:-1 tvg-id="319370" tvg-name="Goku Tv" tvg-logo="https://yt3.ggpht.com/a/AATXAJwFRUp3aOxxpg4Ry4Uw2bFRoT-IlZguUuWkYQ=s900-c-k-c0xffffffff-no-rj-mo", Goku Tv
