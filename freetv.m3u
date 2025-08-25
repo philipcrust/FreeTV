@@ -44,7 +44,7 @@ https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u
 #EXTINF:-1 tvg-id="307822" tvg-name="Energeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png", Energeek FAN
 https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.m3u
 #EXTINF:-1 tvg-id="307822" tvg-name="Energeek Pop" tvg-logo="https://www.neotv.cl/assets/img/channels/eg-pop.png", Energeek Pop
-https://backend.energeek.cl/webtv/egpopweb/tracks-v1a1/mono.m3u
+https://backend.energeek.cl/webtv/egpopweb/tracks-v1a1/mono.m3u8?token=dEmoweBeneRGEek2025
 #EXTINF:-1 tvg-id="319379" tvg-name="Etc TV" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png", Etc TV
 http://45.181.122.46:8090/play/a00t?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307751" tvg-name="FUNTV" tvg-logo="https://i.postimg.cc/bJ5cf41L/2.png", FUNTV
