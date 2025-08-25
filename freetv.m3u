@@ -40,11 +40,11 @@ https://live20.bozztv.com/giatv/giatv-desiertofloridotvstream/desiertofloridotvs
 #EXTINF:-1 tvg-id="307753" tvg-name="Dreiko TV" tvg-logo="https://play-lh.googleusercontent.com/MKxancjPSbqrJIaCcndA9s6VkmYrNZC1X4SR7hDaMvJKUMd33qTN6pob2mVkS8Azd2o=w240-h480-rw", Dreiko TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307824" tvg-name="Energeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png", Energeek Retro
-https://xui-backend.energeek.cl/live/9/playlist.m3u8?username=dEmoweBeneRGEek2025&password=TG66MDvVi9to
+https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u
 #EXTINF:-1 tvg-id="307822" tvg-name="Energeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png", Energeek FAN
-https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&WebM3UCL
+https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.m3u
 #EXTINF:-1 tvg-id="307822" tvg-name="Energeek Pop" tvg-logo="https://www.neotv.cl/assets/img/channels/eg-pop.png", Energeek Pop
-https://xui-backend.energeek.cl/live/22/playlist.m3u8?username=dEmoweBeneRGEek2025&password=TG66MDvVi9to
+https://backend.energeek.cl/webtv/egpopweb/tracks-v1a1/mono.m3u
 #EXTINF:-1 tvg-id="319379" tvg-name="Etc TV" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png", Etc TV
 http://45.181.122.46:8090/play/a00t?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307751" tvg-name="FUNTV" tvg-logo="https://i.postimg.cc/bJ5cf41L/2.png", FUNTV
@@ -54,7 +54,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 #EXTINF:-1 tvg-id="319370" tvg-name="Goku Tv" tvg-logo="https://yt3.ggpht.com/a/AATXAJwFRUp3aOxxpg4Ry4Uw2bFRoT-IlZguUuWkYQ=s900-c-k-c0xffffffff-no-rj-mo", Goku Tv
 https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 #EXTINF:-1 tvg-id="313647" tvg-name="Kanade TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Kanade_TV.png", Kanade TV
-https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&WebM3UCL
+https://backend.energeek.cl/webtv/kanadeweb/tracks-v1a1/mono.m3u
 #EXTINF:-1 tvg-id="316494" tvg-name="Kids TV Español Latino" tvg-logo="https://i.postimg.cc/Jn4bXqPH/Dise-o-sin-t-tulo-27.png", Kids TV Español Latino
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/chunklist_w1835983151.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307837" tvg-name="Locomotion" tvg-logo="https://i.postimg.cc/VN7B7qmk/d591e0bba96cfb3fbe0ae1a9e23ae2ed.png", Locomotion
