@@ -33,8 +33,14 @@ http://185.189.225.150:85/boing/playlist.m3u8?PlaylistM3UCL
 https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/chunks.m3u8
 #EXTINF:-1 tvg-id="317085" tvg-name="Cartoon Clásico LAT" tvg-logo="https://i.postimg.cc/k5fCJQGg/c.png", Cartoon Clásico LAT
 https://live20.bozztv.com/giatv/giatv-CartoonClasico/CartoonClasico/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/ZhE9QqM.png", Cartoon Network 1 HD
+http://104.238.205.28:8989/278524_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/ZhE9QqM.png", Cartoon Network 2 HD
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/CARTOONNETWORK/20-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="307841" tvg-name="Clan Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png" group-title="Familiares",Clan Latinoamerica HD (geobloqueo)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="307841" tvg-name="DFTV" tvg-logo="https://i.postimg.cc/vB10nmJZ/IMG-20250210-WA0000.jpg", DFTV
 https://live20.bozztv.com/giatv/giatv-desiertofloridotvstream/desiertofloridotvstream/chunks.m3u8
 #EXTINF:-1 tvg-id="307753" tvg-name="Dreiko TV" tvg-logo="https://play-lh.googleusercontent.com/MKxancjPSbqrJIaCcndA9s6VkmYrNZC1X4SR7hDaMvJKUMd33qTN6pob2mVkS8Azd2o=w240-h480-rw", Dreiko TV
@@ -87,6 +93,18 @@ https://mitv.zplay.cl/Ninja_Channel/tracks-v1/mono.m3u8
 https://live20.bozztv.com/giatv/giatv-opinionsurn/opinionsurn/playlist.m3u8
 #EXTINF:-1 tvg-id="317620" tvg-name="Planeta TV Junior" tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png?fbclid=IwY2xjawJAUwZleHRuA2FlbQIxMAABHUOInzpBILXAtOXIzp7loMDPj0f2qLbSUNF9ncEoTrMgmjVF68K6PuUFrg_aem_b2G9irOhzpKrNZl53hM6gA", Planeta TV Junior
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8?PlaylistM3UCL
+#EXTINF:-0 tvg-id="" tvg-name="Pluto TV Anime Latino" tvg-logo="https://i.ibb.co/7dX0Hd7k/Logo-Pluto-TV-Anime.png", Pluto TV Anime Latino
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime Accion" tvg-logo="https://i.ibb.co/q3Snp36p/Logo-Anime-Accion.png", Pluto TV Anime Accion
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/680ba8992472a7200a183eb5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="One Piece Pluto TV Latino" tvg-logo="https://i.ibb.co/HTzB7DHQ/Logo-One-Piece-2.jpg", One Piece Pluto TV Latino
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/629a066860ef810008267b70/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh en Pluto TV" tvg-logo="https://i.ibb.co/ZRZHp8XR/logo-Yu-Gi-Oh.jpg", Yu-Gi-Oh en Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb96754e83e70008ab8941/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5xcmpZs6/logodigimon.png", Digimon Latino
+https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Latino Pluto TV" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Bob Esponja Latino Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="316445" tvg-name="Retrotoons" tvg-logo="https://i.postimg.cc/ZRbp9bvv/Dise-o-sin-t-tulo-22.png", Retrotoons
 https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8
 #EXTINF:-1 tvg-id="307821" tvg-name="Retro Magico" tvg-logo="https://i.postimg.cc/pTWQv00Z/1364-Retro-Magico.png", Retro Magico
