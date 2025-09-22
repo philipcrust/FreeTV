@@ -129,8 +129,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/taltal/chunks.m3u8
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
 #EXTINF:-1 tvg-id="314845" tvg-name="Taltal TV Clásico" tvg-logo="https://i.postimg.cc/zB5hpCMb/Dise-o-sin-t-tulo-15.png", Taltal TV Clásico
 https://live20.bozztv.com/giatvplayout7/giatv-210394/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="319362" tvg-name="Teleanimemania" tvg-logo="https://i.postimg.cc/Kz3DXHnD/teleanime.jpg", Teleanimemania
-https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bMDMK8zd/Logo-Teleanimemania-Espa-a.png", Teleanimemania Spain HD
+https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nqYr3jMD/Logo-Teleanimemania-Latino.png", Teleanimemania Latino HD
+https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 #EXTINF:-1 tvg-id="320664" tvg-name="Toonami" tvg-logo="https://i.postimg.cc/0j3HbgFx/toonami-logo-by-zacktastic2006-dfmfxp4-fullview.png", Toonami
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316223" tvg-name="Toonkids" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5f58965018411c0ef81df7c6b596ad54.webp", Toonkids
