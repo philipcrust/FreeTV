@@ -41,7 +41,7 @@ http://104.238.205.28:8989/278524_.m3u8
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/CARTOONNETWORK/20-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="307841" tvg-name="Clan Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png" group-title="Familiares",Clan Latinoamerica HD (geobloqueo)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png', Clan Latinoamerica HD (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="307841" tvg-name="DFTV" tvg-logo="https://i.postimg.cc/vB10nmJZ/IMG-20250210-WA0000.jpg", DFTV
 https://live20.bozztv.com/giatv/giatv-desiertofloridotvstream/desiertofloridotvstream/chunks.m3u8
@@ -95,7 +95,7 @@ https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg0
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="314846" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png", Nickelodeon
 http://185.189.225.150:85/nickelodeon/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/K76CzKP/Logo-Nickelodeon.png" group-title="Familiares",Nickelodeon Latinoamerica HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/K76CzKP/Logo-Nickelodeon.png", Nickelodeon Latinoamerica HD
 http://190.60.48.85:9080/play/a1bi
 #EXTINF:-1 tvg-id="314846" tvg-name="Ninja TV" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png", Ninja TV
 https://mitv.zplay.cl/Ninja_Channel/tracks-v1/mono.m3u8
