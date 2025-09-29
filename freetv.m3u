@@ -37,8 +37,6 @@ https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/chunks.m3u8
 https://live20.bozztv.com/giatv/giatv-CartoonClasico/CartoonClasico/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/ZhE9QqM.png", Cartoon Network 1 HD
 http://104.238.205.28:8989/278524_.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/ZhE9QqM.png", Cartoon Network 2 HD
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/CARTOONNETWORK/20-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="307841" tvg-name="Clan Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png', Clan Latinoamerica HD (geobloqueo)
@@ -133,8 +131,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-210394/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nqYr3jMD/Logo-Teleanimemania-Latino.png", Teleanimemania Latino HD
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
-#EXTINF:-1 tvg-id="TigueritoTV.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg", Tiguerito TV (720p) [Not 24/7]
-https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 #EXTINF:-1 tvg-id="320664" tvg-name="Toonami" tvg-logo="https://i.postimg.cc/0j3HbgFx/toonami-logo-by-zacktastic2006-dfmfxp4-fullview.png", Toonami
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316223" tvg-name="Toonkids" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5f58965018411c0ef81df7c6b596ad54.webp", Toonkids
