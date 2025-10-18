@@ -117,6 +117,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d85
 https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8
 #EXTINF:-1 tvg-id="307821" tvg-name="Retro Magico" tvg-logo="https://i.postimg.cc/pTWQv00Z/1364-Retro-Magico.png", Retro Magico
 https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ricky TV" tvg-logo="https://gia.tv/streams/pptv/210687.jpg", Ricky TV
+https://live20.bozztv.com/giatvplayout7/giatv-210687/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319373" tvg-name="Senpai TV" tvg-logo="https://i.ibb.co/PsLppcXx/Logo-Senpai-TV.png", Senpai TV
 http://45.184.87.142:8000/play/a021?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Sora tv" tvg-logo="https://i.postimg.cc/BnXqfjdR/Captura-de-pantalla-2025-10-18-164201.png", Sora tv
