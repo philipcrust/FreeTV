@@ -35,6 +35,8 @@ http://190.60.33.245:4002/play/a0kd
 http://185.189.225.150:85/boing/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="317085" tvg-name="Cartooncito" tvg-logo="https://i.postimg.cc/CxQvLVyK/Captura-de-pantalla-2025-08-25-001806.png", Cartooncito
 https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/channels/logo/392d658a3b091dae4114aaead80f1e1b.jpg", Cartoon Classics
+https://rpn.bozztv.com/gusa/gusa-cartoonclassics/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="317085" tvg-name="Cartoon Clásico LAT" tvg-logo="https://i.postimg.cc/k5fCJQGg/c.png", Cartoon Clásico LAT
 https://live20.bozztv.com/giatv/giatv-CartoonClasico/CartoonClasico/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/ZhE9QqM.png", Cartoon Network 1 HD
@@ -79,6 +81,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 #EXTINF:-1 tvg-id="307837" tvg-name="Los Simpson 2" tvg-logo="https://i.postimg.cc/3J8qYBY8/simpson.png", Los Simpson 2
 https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg", Los Simpson SD
+https://live20.bozztv.com/giatvplayout7/giatv-208685/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg", Los Simpson HD
+https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u
 #EXTINF:-1 tvg-id="307754" tvg-name="Magic Kids" tvg-logo="https://i.postimg.cc/5yWHpyYt/55bee1f7aa13803eacd319eaeb348b9a.png", Magic Kids
 https://live20.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
 #EXTINF:-1 tvg-id="307825" tvg-name="MagicKids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Magic_Kids_2001.png/revision/latest/scale-to-width-down/300?cb=20210525183411&path-prefix=es", MagicKids
