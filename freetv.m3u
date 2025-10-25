@@ -84,7 +84,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg", Los Simpson SD
 https://live20.bozztv.com/giatvplayout7/giatv-208685/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg", Los Simpson HD
-https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u
+https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/playlist.m3u8
 #EXTINF:-1 tvg-id="307754" tvg-name="Magic Kids" tvg-logo="https://i.postimg.cc/5yWHpyYt/55bee1f7aa13803eacd319eaeb348b9a.png", Magic Kids
 https://live20.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
 #EXTINF:-1 tvg-id="307825" tvg-name="MagicKids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Magic_Kids_2001.png/revision/latest/scale-to-width-down/300?cb=20210525183411&path-prefix=es", MagicKids
@@ -107,8 +107,6 @@ http://185.189.225.150:85/nickelodeon/index.m3u8?PlaylistM3UCL
 http://190.60.48.85:9080/play/a1bi
 #EXTINF:-1 tvg-id="314846" tvg-name="Ninja TV" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png", Ninja TV
 https://mitv.zplay.cl/Ninja_Channel/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-id="312027" tvg-name="Opinión Sur Niños" tvg-logo="https://cdn.m3u.cl/logo/1619_Opinionsur_Ninos.png", Opinión Sur Niños
-https://live20.bozztv.com/giatv/giatv-opinionsurn/opinionsurn/playlist.m3u8
 #EXTINF:-1 tvg-id="317620" tvg-name="Planeta TV Junior" tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png?fbclid=IwY2xjawJAUwZleHRuA2FlbQIxMAABHUOInzpBILXAtOXIzp7loMDPj0f2qLbSUNF9ncEoTrMgmjVF68K6PuUFrg_aem_b2G9irOhzpKrNZl53hM6gA", Planeta TV Junior
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8?PlaylistM3UCL
 #EXTINF:-0 tvg-id="" tvg-name="Pluto TV Anime Latino" tvg-logo="https://i.ibb.co/7dX0Hd7k/Logo-Pluto-TV-Anime.png", Pluto TV Anime Latino
@@ -125,8 +123,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d85
 https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8
 #EXTINF:-1 tvg-id="307821" tvg-name="Retro Magico" tvg-logo="https://i.postimg.cc/pTWQv00Z/1364-Retro-Magico.png", Retro Magico
 https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ricky TV" tvg-logo="https://gia.tv/streams/pptv/210687.jpg", Ricky TV
-https://live20.bozztv.com/giatvplayout7/giatv-210687/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319373" tvg-name="Senpai TV" tvg-logo="https://i.ibb.co/PsLppcXx/Logo-Senpai-TV.png", Senpai TV
 http://45.184.87.142:8000/play/a021?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Sora tv" tvg-logo="https://i.postimg.cc/BnXqfjdR/Captura-de-pantalla-2025-10-18-164201.png", Sora tv
