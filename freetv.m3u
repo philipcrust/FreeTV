@@ -143,8 +143,8 @@ https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8?PlaylistM3
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/8ab814b1-394e-4682-8160-e2f89c1c127e/1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307820" tvg-name="VariedTV" tvg-logo="https://i.postimg.cc/8C6WV2BM/Captura-de-pantalla-2025-08-25-011549.png", VariedTV
 https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8
-#EXTINF:-1 tvg-id="314974" tvg-name="WEPA TV" tvg-logo="https://i.postimg.cc/W1g6n13y/WEPA-TV.png", WEPA TV
-https://live20.bozztv.com/akamaissh101/ssh101/tvwxfxxgo/chunks.m3u8      
+#EXTINF:-1 tvg-id="" tvg-name="XMEN" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/X-Men-Logo-1968.png", XMEN
+https://live20.bozztv.com/giatvplayout7/giatv-210703/tracks-v1a1/mono.ts.m3u8    
 #EXTINF:-1 tvg-id="320339" tvg-name="Zaz Tv" tvg-logo="https://i.ibb.co/sFwwMyt/logo-Zaz-TV.png", Zaz Tv
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13012
 #EXTINF:-1 tvg-id="308397" tvg-name="ZTV" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", ZTV
