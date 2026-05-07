@@ -61,6 +61,8 @@ https://backend.energeek.cl/webtv/egpopweb/tracks-v1a1/mono.m3u8?token=dEmoweBen
 https://sc1.wasidata.com/CartoonsPrime/tracks-v1a1/mono.ts.m3u8?WebM3UCL&token=vibra060425
 #EXTINF:-1 tvg-id="319379" tvg-name="Etc TV" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png", Etc TV
 http://45.181.122.46:8090/play/a00t?PlaylistM3UCL
+#EXTINF:-1 tvg-id="307751" tvg-name="FOOX KIDS" tvg-logo="https://i.postimg.cc/2yqfdD0y/Captura-de-pantalla-2026-05-06-234214.png", FOOX KIDS
+https://183.bozztv.com/giatv/giatv-fooxkids/fooxkids/chunks.m3u8
 #EXTINF:-1 tvg-id="307751" tvg-name="FUNTV" tvg-logo="https://i.postimg.cc/bJ5cf41L/2.png", FUNTV
 https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307835" tvg-name="Gogoplay Tv" tvg-logo="https://i.postimg.cc/c4YxQqgf/Dise-o-sin-t-tulo-19.png", Gogoplay Tv
