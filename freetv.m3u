@@ -73,8 +73,8 @@ https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 #EXTINF:-1 tvg-id="316494" tvg-name="Kids TV Español Latino" tvg-logo="https://i.postimg.cc/Jn4bXqPH/Dise-o-sin-t-tulo-27.png", Kids TV Español Latino
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/chunklist_w1835983151.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="307837" tvg-name="Laika channel" tvg-logo="https://i.postimg.cc/bY9PtV6p/Captura-de-pantalla-2026-01-28-232337.png", Laika channel
-https://mitv.zplay.cl/LaikaTV/tracks-v1a1/mono.ts.m3u8?token=D4lm1R0m-tFJES
+#EXTINF:-1 tvg-id="307837" tvg-name="Laika channel" tvg-logo="https://i.postimg.cc/bY9PtV6p/Captura-de-pantalla-2026-01-28-232337.png", Laika channel España
+https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="307837" tvg-name="Locomotion" tvg-logo="https://i.postimg.cc/VN7B7qmk/d591e0bba96cfb3fbe0ae1a9e23ae2ed.png", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="LOCOMOTION 24/7" tvg-id="LOCOMOTION24/7" tvg-logo="https://i.ibb.co/xQBQyJy/Logo-Locomotion-1.png", Locomotion 24/7 HD
@@ -132,10 +132,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/sparkx/chunks.m3u8
 #EXTINF:-1 tvg-id="317622" tvg-name="Smurfs TV" tvg-logo="https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png?fbclid=IwY2xjawJAVWZleHRuA2FlbQIxMAABHRtDBoDhPNYq0C7S-CD2fHZg1FaE1OANzD1pLFeDQ1yPkofYdw3KOIOvUQ_aem_Vrvak9kopwh9zKmR_fiEWQ", Smurfs TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307826" tvg-name="Taltal TV Anime" tvg-logo="https://i.postimg.cc/3rfyDQKD/Dise-o-sin-t-tulo-16.png", Taltal TV Anime
-https://live20.bozztv.com/akamaissh101/ssh101/taltal/chunks.m3u8
-#EXTINF:-1 tvg-id="314647" tvg-name="Taltal TV" tvg-logo="https://i.postimg.cc/zB5hpCMb/Dise-o-sin-t-tulo-15.png", Taltal TV
+https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION2/TALTALTVANIMACION2/chunks.m3u8
+#EXTINF:-1 tvg-id="314647" tvg-name="Taltal TV" tvg-logo="https://i.postimg.cc/zB5hpCMb/Dise-o-sin-t-tulo-15.png", Taltal TV HD
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
-#EXTINF:-1 tvg-id="314845" tvg-name="Taltal TV Clásico" tvg-logo="https://i.postimg.cc/zB5hpCMb/Dise-o-sin-t-tulo-15.png", Taltal TV Clásico
+#EXTINF:-1 tvg-id="314845" tvg-name="Taltal TV Clásico" tvg-logo="https://gia.tv/streams/pstream/208260.png?1782878782", Taltal TV City Pop
 https://live20.bozztv.com/giatvplayout7/giatv-210394/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bMDMK8zd/Logo-Teleanimemania-Espa-a.png", Teleanimemania Spain HD
 https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
