@@ -3,16 +3,6 @@
 http://177.234.230.206:8011/play/a0pt
 #EXTINF:-1 tvg-id="314939" tvg-name="AniFun" tvg-logo="https://i.postimg.cc/qvQTy1BF/Japan-2.png", AniFun
 https://live20.bozztv.com/akamaissh101/ssh101/funtveste/chunks.m3u8
-#EXTINF:-1 tvg-id="Canal Anime Onegai 1" tvg-name="Canal Anime Onegai 1" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png", Anime Onegai 1 HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
-#EXTINF:-1 tvg-id="Canal Anime Onegai 2" tvg-name="Canal Anime Onegai 2" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png"", Anime Onegai 2 HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
-#EXTINF:-1 tvg-id="Canal Anime Onegai 3" tvg-name="Canal Anime Onegai 3" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png", Anime Onegai 3 HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
-#EXTINF:-1 tvg-id="Canal Anime Onegai 4" tvg-name="Canal Anime Onegai 4" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png", Anime Onegai 4 HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
-#EXTINF:-1 tvg-id="Canal Anime Onegai 5" tvg-name="Canal Anime Onegai 5" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png", Anime Onegai 5 HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" ,AnimeStation 1 HD 
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" ,AnimeStation 2 HD
@@ -23,32 +13,20 @@ https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 #EXTINF:-1 tvg-id="307749" tvg-name="AniRetro" tvg-logo="https://i.postimg.cc/D03hRbPt/435757743-122093226080292887-572220843076582151-n-jpg-1811-1811.png", AniRetro
 https://tv.arkeo.cl:19360/8000/8000.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="AnimeXTV" tvg-id="" tvg-logo="https://i.ibb.co/fVdNPG7q/Logo-Anime-XTV.png", AnimeXTV
-http://animezonetv.net:81/live_hls/animetest/index.m3u8
 #EXTINF:-1 tvg-id="307828" tvg-name="Anime Zone TV" tvg-logo="https://i.postimg.cc/8CVPq9ky/298687569-470227431777335-9066269538815922962-n.png", Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="314183" tvg-name="Big TV" tvg-logo="https://i.postimg.cc/7YQgDTCd/Dise-o-sin-t-tulo-13.png", Big TV
-https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nmp23M7/Logo-Bitme.png", Bitme HD
-http://190.60.33.245:4002/play/a0kd
-#EXTINF:-1 tvg-id="307840" tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png", Boing
-http://185.189.225.150:85/boing/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="317085" tvg-name="Cartooncito" tvg-logo="https://i.postimg.cc/CxQvLVyK/Captura-de-pantalla-2025-08-25-001806.png", Cartooncito
-https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/chunks.m3u8
+#EXTINF:-1 tvg-id="317085" tvg-name="Canal Buzz" tvg-logo="https://i.ibb.co/kYdb9nr/Logo-Buzz.png", Canal Buzz
+https://lbgo.bozztv.com/ssh101/ssh101/canalbuzz2026/chunks.m3u8
 #EXTINF:-1 tvg-id="317085" tvg-name="Cartoon Clásico LAT" tvg-logo="https://i.postimg.cc/k5fCJQGg/c.png", Cartoon Clásico LAT
 https://live20.bozztv.com/giatv/giatv-CartoonClasico/CartoonClasico/chunks.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/ZhE9QqM.png", Cartoon Network 1 HD
-http://104.238.205.28:8989/278524_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="hhttps://i.ibb.co/MMcb5Fg/Logo-CN-CITY.png", Cartoon Network city
+https://envivo.cncity.live/hls/envivo.m3u8
 #EXTINF:-1 tvg-id="307841" tvg-name="Clan Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png", Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Clan Latinoamerica HD" tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png", Clan Latinoamerica HD
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8
-#EXTINF:-1 tvg-id="307841" tvg-name="DFTV" tvg-logo="https://i.postimg.cc/vB10nmJZ/IMG-20250210-WA0000.jpg", DFTV
-https://live20.bozztv.com/giatv/giatv-desiertofloridotvstream/desiertofloridotvstream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5xcmpZs6/logodigimon.png", Digimon Latino
 https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GswGgT8/Logo-Disney-Channel-HD.png", Disney Channel HD
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/DISNEYCHANNEL/20-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="307753" tvg-name="Dreiko TV" tvg-logo="https://play-lh.googleusercontent.com/MKxancjPSbqrJIaCcndA9s6VkmYrNZC1X4SR7hDaMvJKUMd33qTN6pob2mVkS8Azd2o=w240-h480-rw", Dreiko TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307824" tvg-name="Energeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png", Energeek Retro
@@ -57,8 +35,6 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&Playl
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 #EXTINF:-1 tvg-id="307822" tvg-name="Energeek Pop" tvg-logo="https://www.neotv.cl/assets/img/channels/eg-pop.png", Energeek Pop
 https://backend.energeek.cl/webtv/egpopweb/tracks-v1a1/mono.m3u8?token=dEmoweBeneRGEek2025
-#EXTINF:-1 tvg-id="319379" tvg-name="EpicToon" tvg-logo="https://cdn.m3u.cl/logo/1720_EpicToon.png", EpicToon
-https://sc1.wasidata.com/CartoonsPrime/tracks-v1a1/mono.ts.m3u8?WebM3UCL&token=vibra060425
 #EXTINF:-1 tvg-id="319379" tvg-name="Etc TV" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png", Etc TV
 http://45.181.122.46:8090/play/a00t?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307751" tvg-name="FOOX KIDS" tvg-logo="https://i.postimg.cc/2yqfdD0y/Captura-de-pantalla-2026-05-06-234214.png", FOOX KIDS
@@ -88,7 +64,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
 #EXTINF:-1 tvg-id="307754" tvg-name="Magic Kids" tvg-logo="https://i.postimg.cc/5yWHpyYt/55bee1f7aa13803eacd319eaeb348b9a.png", Magic Kids
 https://live20.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
 #EXTINF:-1 tvg-id="307825" tvg-name="MagicKids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Magic_Kids_2001.png/revision/latest/scale-to-width-down/300?cb=20210525183411&path-prefix=es", MagicKids
-https://magicstream.ddns.net/magicstream/stream.m3u8?PlaylistM3UCL
+https://kali.vdopanel.com:3909/stream/play.m3u8
 #EXTINF:-1 tvg-id="307842" tvg-name="Max Anime" tvg-logo="https://www.neotv.cl/assets/img/channels/max-anime-3-c.png", Max Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307756" tvg-name="Moni TV" tvg-logo="https://i.postimg.cc/xdVWfSzz/dad53a17aceb11d80b7ec90ec2398f2f.png", Moni TV
@@ -101,12 +77,6 @@ https://stream.gia.tv/giatvplayout7/giatv-208708/tracks-v1a1/mono.ts.m3u8?Playli
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320341" tvg-name="Mr Bean " tvg-logo="https://i.ibb.co/X5wkQRm/Logo-Mr-Bean.jpg", Mr Bean 
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="314846" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png", Nickelodeon
-http://185.189.225.150:85/nickelodeon/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/K76CzKP/Logo-Nickelodeon.png", Nickelodeon Latinoamerica HD
-http://190.60.48.85:9080/play/a1bi
-#EXTINF:-1 tvg-id="314846" tvg-name="Ninja TV" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png", Ninja TV
-https://mitv.zplay.cl/Ninja_Channel/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-id="317620" tvg-name="Planeta TV Junior" tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png?fbclid=IwY2xjawJAUwZleHRuA2FlbQIxMAABHUOInzpBILXAtOXIzp7loMDPj0f2qLbSUNF9ncEoTrMgmjVF68K6PuUFrg_aem_b2G9irOhzpKrNZl53hM6gA", Planeta TV Junior
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8?PlaylistM3UCL
 #EXTINF:-0 tvg-id="" tvg-name="Pluto TV Anime Latino" tvg-logo="https://i.ibb.co/7dX0Hd7k/Logo-Pluto-TV-Anime.png", Pluto TV Anime Latino
@@ -122,7 +92,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d85
 #EXTINF:-1 tvg-id="316445" tvg-name="Retrotoons" tvg-logo="https://i.postimg.cc/ZRbp9bvv/Dise-o-sin-t-tulo-22.png", Retrotoons
 https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8
 #EXTINF:-1 tvg-id="307821" tvg-name="Retro Magico" tvg-logo="https://i.postimg.cc/pTWQv00Z/1364-Retro-Magico.png", Retro Magico
-https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/chunks.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/retromagicocnl/chunks.m3u8
 #EXTINF:-1 tvg-id="319373" tvg-name="Senpai TV" tvg-logo="https://i.ibb.co/PsLppcXx/Logo-Senpai-TV.png", Senpai TV
 http://45.184.87.142:8000/play/a021?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Sora tv" tvg-logo="https://i.postimg.cc/BnXqfjdR/Captura-de-pantalla-2025-10-18-164201.png", Sora tv
