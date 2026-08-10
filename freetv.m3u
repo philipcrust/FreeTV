@@ -98,7 +98,8 @@ http://45.184.87.142:8000/play/a021?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Sora tv" tvg-logo="https://i.postimg.cc/BnXqfjdR/Captura-de-pantalla-2025-10-18-164201.png", Sora tv
 https://live20.bozztv.com/giatv/giatv-SoraTV/SoraTV/chunks.m3u8
 #EXTINF:-1 tvg-id="320883" tvg-name="South Park lat" tvg-logo="https://logonoid.com/images/south-park-logo.png", South Park lat
-https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/3063648/playlist.m3u8
+
+https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/3063648/playlist.m3u8?sid=SAMSUNG-TVPLUS-d986ebe6-2324-4c12-a2f2-e7ffb34c700e&deviceId=efd246a1-cecd-4757-ad38-e03e67c9f410&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImQyZGEzNDMzLTYwYTEtNGYxZi1iNTMzLWFlN2E0MDE5Zjk0MiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg2MzgyODQ5LCJpYXQiOjE3ODYyOTY0NDksImp0aSI6IjNkNTIyMjVkLWQxYjUtNGVmYi05MjU2LTZjYTIwNmYwMGM0MyJ9.TwceaIfQkdgp2_L2E5vK8RIXoWM_DTRd9WPzUUow8UU
 #EXTINF:-1 tvg-id="317622" tvg-name="Smurfs TV" tvg-logo="https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png?fbclid=IwY2xjawJAVWZleHRuA2FlbQIxMAABHRtDBoDhPNYq0C7S-CD2fHZg1FaE1OANzD1pLFeDQ1yPkofYdw3KOIOvUQ_aem_Vrvak9kopwh9zKmR_fiEWQ", Smurfs TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307826" tvg-name="Taltal TV Anime" tvg-logo="https://i.postimg.cc/3rfyDQKD/Dise-o-sin-t-tulo-16.png", Taltal TV Anime
