@@ -71,8 +71,8 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8?PlaylistM3UCL
 https://tv.arkeo.cl:19360/8134/8134.m3u8
 #EXTINF:-1 tvg-id="307756" tvg-name="Moni TV" tvg-logo="https://i.postimg.cc/xdVWfSzz/dad53a17aceb11d80b7ec90ec2398f2f.png", Moni TV 2
 https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/chunks.m3u8
-#EXTINF:-1 tvg-id="316222" tvg-name="Moviplay TV" tvg-logo="", Moviplay TV
-https://stream.gia.tv/giatvplayout7/giatv-208708/tracks-v1a1/mono.ts.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="316222" tvg-name=" Nickelodeon Lat" tvg-logo="https://www.pngall.com/wp-content/uploads/15/Nickelodeon-Logo-PNG-Photos.png", Nickelodeon Lat
+https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/3063648/playlist.m3u8?sid=SAMSUNG-TVPLUS-d986ebe6-2324-4c12-a2f2-e7ffb34c700e&deviceId=efd246a1-cecd-4757-ad38-e03e67c9f410&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImQyZGEzNDMzLTYwYTEtNGYxZi1iNTMzLWFlN2E0MDE5Zjk0MiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg2MzgyODQ5LCJpYXQiOjE3ODYyOTY0NDksImp0aSI6IjNkNTIyMjVkLWQxYjUtNGVmYi05MjU2LTZjYTIwNmYwMGM0MyJ9.TwceaIfQkdgp2_L2E5vK8RIXoWM_DTRd9WPzUUow8UU
 #EXTINF:-1 tvg-id="317619" tvg-name="Mr Bean toons" tvg-logo="https://i.ibb.co/87Q3Lf3/Logo-Mr-Bean.png?fbclid=IwY2xjawJAUndleHRuA2FlbQIxMAABHQ2hPVDDbdWeCepMyH67zJvvhT4_WcLk6v1fnsnNatzTxRVIl_0AeZUejg_aem_xNXoHNyrVHCE4wbtqwdf8A", Mr Bean toons
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320341" tvg-name="Mr Bean " tvg-logo="https://i.ibb.co/X5wkQRm/Logo-Mr-Bean.jpg", Mr Bean 
@@ -98,7 +98,6 @@ http://45.184.87.142:8000/play/a021?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Sora tv" tvg-logo="https://i.postimg.cc/BnXqfjdR/Captura-de-pantalla-2025-10-18-164201.png", Sora tv
 https://live20.bozztv.com/giatv/giatv-SoraTV/SoraTV/chunks.m3u8
 #EXTINF:-1 tvg-id="320883" tvg-name="South Park lat" tvg-logo="https://logonoid.com/images/south-park-logo.png", South Park lat
-
 https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/3063648/playlist.m3u8?sid=SAMSUNG-TVPLUS-d986ebe6-2324-4c12-a2f2-e7ffb34c700e&deviceId=efd246a1-cecd-4757-ad38-e03e67c9f410&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImQyZGEzNDMzLTYwYTEtNGYxZi1iNTMzLWFlN2E0MDE5Zjk0MiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg2MzgyODQ5LCJpYXQiOjE3ODYyOTY0NDksImp0aSI6IjNkNTIyMjVkLWQxYjUtNGVmYi05MjU2LTZjYTIwNmYwMGM0MyJ9.TwceaIfQkdgp2_L2E5vK8RIXoWM_DTRd9WPzUUow8UU
 #EXTINF:-1 tvg-id="317622" tvg-name="Smurfs TV" tvg-logo="https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png?fbclid=IwY2xjawJAVWZleHRuA2FlbQIxMAABHRtDBoDhPNYq0C7S-CD2fHZg1FaE1OANzD1pLFeDQ1yPkofYdw3KOIOvUQ_aem_Vrvak9kopwh9zKmR_fiEWQ", Smurfs TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8?PlaylistM3UCL
