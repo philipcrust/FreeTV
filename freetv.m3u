@@ -11,8 +11,6 @@ https://live20.bozztv.com/giatv/giatv-livestreamingtv/livestreamingtv/chunks.m3u
 https://daiconnect.com/live/hls/tvup/tvfy-animevision/56f0832110a1bbaecc3a45a27ddba1d9/index.m3u8?requestuid=26151914-5694-432c-8e30-00cd95083c18
 #EXTINF:-1 tvg-id="317876" tvg-name="Anime Vision Classics" tvg-logo="https://i.ibb.co/TD1wyybD/Logo-Anime-Vision-Classics.png?fbclid=IwY2xjawJS0fRleHRuA2FlbQIxMAABHW3EIdh5vaYeZ6bo2h6kuCSyJSQ88EB9jEBf9A3OaudD0XJ3OpNqQTpsCg_aem_Lki0i5M885XVG8j3yHbQ5A", Anime Vision Classics
 https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/b8ee129e0585ae0c1eb5b4187f8e4fa7/index.m3u8?requestuid=42a61b8a-16d4-4781-87df-5821907a7bf8
-#EXTINF:-1 tvg-id="307749" tvg-name="AniRetro" tvg-logo="https://i.postimg.cc/D03hRbPt/435757743-122093226080292887-572220843076582151-n-jpg-1811-1811.png", AniRetro
-https://tv.arkeo.cl:19360/8000/8000.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307828" tvg-name="Anime Zone TV" tvg-logo="https://i.postimg.cc/8CVPq9ky/298687569-470227431777335-9066269538815922962-n.png", Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="317085" tvg-name="Canal Buzz" tvg-logo="https://i.ibb.co/kYdb9nr/Logo-Buzz.png", Canal Buzz
@@ -91,6 +89,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/629a066860ef810008267b
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb96754e83e70008ab8941/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Latino Pluto TV" tvg-logo="https://www.vhv.rs/dpng/d/49-493875_bob-esponja-png-transparent-png.png",  Pluto TV Bob Esponja Latino
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="Primired" tvg-logo="https://i.postimg.cc/QNmJx2kq/Captura-de-pantalla-2026-08-25-185017.png", Primired
+https://cdn.40mediagroup.com/live/c7eds/Primired/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="316445" tvg-name="Retrotoons" tvg-logo="https://i.postimg.cc/ZRbp9bvv/Dise-o-sin-t-tulo-22.png", Retrotoons
 https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8
 #EXTINF:-1 tvg-id="307821" tvg-name="Retro Magico" tvg-logo="https://i.postimg.cc/pTWQv00Z/1364-Retro-Magico.png", Retro Magico
