@@ -28,7 +28,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5xcmpZs6/logodigimon.png", Digimon Latino
 https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
 #EXTINF:-1 tvg-id="307753" tvg-name="DFTV Animacion" tvg-logo="", DFTV Animacion
-http://gia.tv/streams/208828.m3u
+https://gia.tv/streams/208828.m3u
 #EXTINF:-1 tvg-id="307753" tvg-name="Dreiko TV" tvg-logo="https://play-lh.googleusercontent.com/MKxancjPSbqrJIaCcndA9s6VkmYrNZC1X4SR7hDaMvJKUMd33qTN6pob2mVkS8Azd2o=w240-h480-rw", Dreiko TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307824" tvg-name="Energeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png", Energeek Retro
