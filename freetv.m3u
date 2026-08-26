@@ -39,6 +39,8 @@ https://backend.energeek.cl/webtv/egpopweb/tracks-v1a1/mono.m3u8?token=dEmoweBen
 https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="319379" tvg-name="Etc TV" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png", Etc TV
 http://45.181.122.46:8090/play/a00t?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Hey Arnold!" tvg-logo="https://www.pngkit.com/png/full/187-1874829_hey-arnold-logo-hey-arnold-logo-png.png", Hey Arnold!
+https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/66c79221b1a34600087e264d/3063648/playlist.m3u8?sid=SAMSUNG-TVPLUS-d986ebe6-2324-4c12-a2f2-e7ffb34c700e&deviceId=efd246a1-cecd-4757-ad38-e03e67c9f410&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjhmMDFjYzNiLTM3YTgtNGJlNC05MGQwLTk2YzBmNDI0YTQwMyIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg3NzY2OTY0LCJpYXQiOjE3ODc2ODA1NjQsImp0aSI6IjVlY2RiN2Y4LTBmNzMtNDM5ZS05NWI3LTRhNzE3ZWUyMjIzZSJ9.AhYPQEMDPvUWLjSqxE_b_Ffj-Uhz75TRM4Xew4ETBSY
 #EXTINF:-1 tvg-id="307751" tvg-name="Hikari Station" tvg-logo="https://i.postimg.cc/mDzdWBFP/hikarstation.jpg", Hikari Station
 https://cdn.cl.scl.edge.01.zplay.cl/Laika/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="307751" tvg-name="FUNTV" tvg-logo="https://i.postimg.cc/bJ5cf41L/2.png", FUNTV
