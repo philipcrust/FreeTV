@@ -1,6 +1,6 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="319374" tvg-name="Adult Swim LA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png", Adult Swim LA
-http://177.234.230.206:8011/play/a0pt
+#EXTINF:-1 tvg-id="319374" tvg-name="13 Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/13kids.svg/revision/latest/scale-to-width-down/250?cb=20230517002128&path-prefix=es", 13 Kids
+https://dai.google.com/linear/hls/pa/event/LhHrVtyeQkKZ-Ye_xEU75g/stream/8fcf798f-0586-44ae-9f35-1f436300dfd6:SCL2/variant/c6d3412afe40321323e938e4693d1e93/bandwidth/1926569.m3u8
 #EXTINF:-1 tvg-id="314939" tvg-name="AniFun" tvg-logo="https://i.postimg.cc/qvQTy1BF/Japan-2.png", AniFun
 https://live20.bozztv.com/akamaissh101/ssh101/funtveste/chunks.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" ,AnimeStation 1 HD 
