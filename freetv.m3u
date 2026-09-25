@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="319374" tvg-name="13 Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/13kids.svg/revision/latest/scale-to-width-down/250?cb=20230517002128&path-prefix=es", 13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png", Adult Swim Latin America (1080p) [Geo-blocked]
+http://138.121.15.230:9002/ADULT-SWIM/index.m3u8
 #EXTINF:-1 tvg-id="314939" tvg-name="AniFun" tvg-logo="https://i.postimg.cc/qvQTy1BF/Japan-2.png", AniFun
 https://live20.bozztv.com/akamaissh101/ssh101/funtveste/chunks.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" ,AnimeStation 1 HD 
@@ -13,6 +15,8 @@ https://daiconnect.com/live/hls/tvup/tvfy-animevision/56f0832110a1bbaecc3a45a27d
 https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/b8ee129e0585ae0c1eb5b4187f8e4fa7/index.m3u8?requestuid=42a61b8a-16d4-4781-87df-5821907a7bf8
 #EXTINF:-1 tvg-id="307828" tvg-name="Anime Zone TV" tvg-logo="https://i.postimg.cc/8CVPq9ky/298687569-470227431777335-9066269538815922962-n.png", Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JgXQz6c.png", bitMe Latin America (1080p)
+https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1781042617821.png", Bob Esponja
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 #EXTINF:-1 tvg-id="317085" tvg-name="Canal Buzz" tvg-logo="https://i.ibb.co/kYdb9nr/Logo-Buzz.png", Canal Buzz
@@ -23,6 +27,10 @@ https://live20.bozztv.com/giatv/giatv-CartoonClasico/CartoonClasico/chunks.m3u8?
 https://envivo.cncity.live/hls/envivo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Clan Latinoamerica HD" tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png", Clan Latinoamerica HD
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png", Daria
+https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
+#EXTINF:-1 tvg-id="D" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/solidLogoPNG.png?w=512", Detective Conan
+https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5xcmpZs6/logodigimon.png", Digimon Latino
 https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DFTV Animacion" tvg-logo="https://i.postimg.cc/pXBYrgfS/Whats-App-Image-2026-08-25-at-00-11-37.jpg", DFTV Animacion
@@ -73,24 +81,23 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8?PlaylistM3UCL
 https://tv.arkeo.cl:19360/8134/8134.m3u8
 #EXTINF:-1 tvg-id="307756" tvg-name="Moni TV" tvg-logo="https://i.postimg.cc/xdVWfSzz/dad53a17aceb11d80b7ec90ec2398f2f.png", Moni TV 2
 https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hG8F0RY.png", Naruto en espanol
+https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png", Naruto Shippuden
+https://jmp2.uk/plu-64c92f965580090008084968.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG_1750157294622.png", Nickelodeon Clasico (720p)
 #EXTINF:-1 tvg-id="316222" tvg-name=" Nickelodeon Lat" tvg-logo="https://www.pngall.com/wp-content/uploads/15/Nickelodeon-Logo-PNG-Photos.png", Nickelodeon Lat
 https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/3063648/playlist.m3u8?sid=SAMSUNG-TVPLUS-d986ebe6-2324-4c12-a2f2-e7ffb34c700e&deviceId=efd246a1-cecd-4757-ad38-e03e67c9f410&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImQyZGEzNDMzLTYwYTEtNGYxZi1iNTMzLWFlN2E0MDE5Zjk0MiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg2MzgyODQ5LCJpYXQiOjE3ODYyOTY0NDksImp0aSI6IjNkNTIyMjVkLWQxYjUtNGVmYi05MjU2LTZjYTIwNmYwMGM0MyJ9.TwceaIfQkdgp2_L2E5vK8RIXoWM_DTRd9WPzUUow8UU
 #EXTINF:-1 tvg-id="317619" tvg-name="Mr Bean toons" tvg-logo="https://i.ibb.co/87Q3Lf3/Logo-Mr-Bean.png?fbclid=IwY2xjawJAUndleHRuA2FlbQIxMAABHQ2hPVDDbdWeCepMyH67zJvvhT4_WcLk6v1fnsnNatzTxRVIl_0AeZUejg_aem_xNXoHNyrVHCE4wbtqwdf8A", Mr Bean toons
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320341" tvg-name="Mr Bean " tvg-logo="https://i.ibb.co/X5wkQRm/Logo-Mr-Bean.jpg", Mr Bean 
+#EXTINF:-1 tvg-id="320341" tvg-name="Mr Bean " tvg-logo="https://i.ibb.co/X5wkQRm/Logo-Mr-Bean.jpg", Mr Bean
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XsvbAWR.png", One Piece LatAm
+https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="317620" tvg-name="Planeta TV Junior" tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png?fbclid=IwY2xjawJAUwZleHRuA2FlbQIxMAABHUOInzpBILXAtOXIzp7loMDPj0f2qLbSUNF9ncEoTrMgmjVF68K6PuUFrg_aem_b2G9irOhzpKrNZl53hM6gA", Planeta TV Junior
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8?PlaylistM3UCL
-#EXTINF:-0 tvg-id="" tvg-name="Pluto TV Anime Latino" tvg-logo="https://i.ibb.co/7dX0Hd7k/Logo-Pluto-TV-Anime.png", Pluto TV Anime Latino
-https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/3063648/playlist.m3u8?sid=SAMSUNG-TVPLUS-d986ebe6-2324-4c12-a2f2-e7ffb34c700e&deviceId=efd246a1-cecd-4757-ad38-e03e67c9f410&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjhmMDFjYzNiLTM3YTgtNGJlNC05MGQwLTk2YzBmNDI0YTQwMyIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg3NzY2OTY0LCJpYXQiOjE3ODc2ODA1NjQsImp0aSI6IjVlY2RiN2Y4LTBmNzMtNDM5ZS05NWI3LTRhNzE3ZWUyMjIzZSJ9.AhYPQEMDPvUWLjSqxE_b_Ffj-Uhz75TRM4Xew4ETBSY
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime Accion" tvg-logo="https://i.ibb.co/q3Snp36p/Logo-Anime-Accion.png", Pluto TV Anime Accion
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/680ba8992472a7200a183eb5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-name="One Piece Pluto TV Latino" tvg-logo="https://i.ibb.co/HTzB7DHQ/Logo-One-Piece-2.jpg", Pluto TV One Piece Latino
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/629a066860ef810008267b70/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh en Pluto TV" tvg-logo="https://i.ibb.co/ZRZHp8XR/logo-Yu-Gi-Oh.jpg", Pluto TV Yu-Gi-Oh 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb96754e83e70008ab8941/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Latino Pluto TV" tvg-logo="https://www.vhv.rs/dpng/d/49-493875_bob-esponja-png-transparent-png.png",  Pluto TV Bob Esponja Latino
-https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/6254598f5083f800076d8563/3063648/playlist.m3u8?sid=SAMSUNG-TVPLUS-d986ebe6-2324-4c12-a2f2-e7ffb34c700e&deviceId=efd246a1-cecd-4757-ad38-e03e67c9f410&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjhmMDFjYzNiLTM3YTgtNGJlNC05MGQwLTk2YzBmNDI0YTQwMyIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg3NzY2OTY0LCJpYXQiOjE3ODc2ODA1NjQsImp0aSI6IjVlY2RiN2Y4LTBmNzMtNDM5ZS05NWI3LTRhNzE3ZWUyMjIzZSJ9.AhYPQEMDPvUWLjSqxE_b_Ffj-Uhz75TRM4Xew4ETBSY
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png", Pluto TV Anime LatAm
+https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Primired" tvg-logo="https://i.postimg.cc/QNmJx2kq/Captura-de-pantalla-2026-08-25-185017.png", Primired
 https://cdn.40mediagroup.com/live/c7eds/Primired/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="316445" tvg-name="Retrotoons" tvg-logo="https://i.postimg.cc/ZRbp9bvv/Dise-o-sin-t-tulo-22.png", Retrotoons
@@ -99,13 +106,10 @@ https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/retromagicocnl/chunks.m3u8
 #EXTINF:-1 tvg-id="319373" tvg-name="Senpai TV" tvg-logo="https://i.ibb.co/PsLppcXx/Logo-Senpai-TV.png", Senpai TV
 http://45.184.87.142:8000/play/a021?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Sora tv" tvg-logo="https://i.postimg.cc/BnXqfjdR/Captura-de-pantalla-2025-10-18-164201.png", Sora tv
-https://live20.bozztv.com/giatv/giatv-SoraTV/SoraTV/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="South Park Sub" tvg-logo="https://logonoid.com/images/south-park-logo.png", South Park Sub
 https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
 #EXTINF:-1 tvg-id="320883" tvg-name="South Park lat" tvg-logo="https://logonoid.com/images/south-park-logo.png", South Park lat
-https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/3063648/playlist.m3u8?sid=SAMSUNG-TVPLUS-d986ebe6-2324-4c12-a2f2-e7ffb34c700e&deviceId=efd246a1-cecd-4757-ad38-e03e67c9f410&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjhmMDFjYzNiLTM3YTgtNGJlNC05MGQwLTk2YzBmNDI0YTQwMyIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg3NzY2OTY0LCJpYXQiOjE3ODc2ODA1NjQsImp0aSI6IjVlY2RiN2Y4LTBmNzMtNDM5ZS05NWI3LTRhNzE3ZWUyMjIzZSJ9.AhYPQEMDPvUWLjSqxE_b_Ffj-Uhz75TRM4Xew4ETBSY
-#EXTINF:-1 tvg-id="317622" tvg-name="Smurfs TV" tvg-logo="https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png?fbclid=IwY2xjawJAVWZleHRuA2FlbQIxMAABHRtDBoDhPNYq0C7S-CD2fHZg1FaE1OANzD1pLFeDQ1yPkofYdw3KOIOvUQ_aem_Vrvak9kopwh9zKmR_fiEWQ", Smurfs TV
+https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="307826" tvg-name="Taltal TV Anime" tvg-logo="https://i.postimg.cc/3rfyDQKD/Dise-o-sin-t-tulo-16.png", Taltal TV Anime
 https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION2/TALTALTVANIMACION2/chunks.m3u8
@@ -127,7 +131,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210703/tracks-v1a1/mono.ts.m3u8    
 #EXTINF:-1 tvg-id="320339" tvg-name="Zaz Tv" tvg-logo="https://i.ibb.co/sFwwMyt/logo-Zaz-TV.png", Zaz Tv
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13012
-#EXTINF:-1 tvg-id="308397" tvg-name="ZTV" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", ZTV
-https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8?WebM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319359" tvg-name="Zyoon Tv" tvg-logo="https://i.postimg.cc/Twnf4THj/zyoon.jpg", Zyoon Tv
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/colorLogoPNG.png", MTV Rocks LatAm
+https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
