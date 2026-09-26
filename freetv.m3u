@@ -131,7 +131,5 @@ https://live20.bozztv.com/giatvplayout7/giatv-210703/tracks-v1a1/mono.ts.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13012
 #EXTINF:-1 tvg-id="319359" tvg-name="Zyoon Tv" tvg-logo="https://i.postimg.cc/Twnf4THj/zyoon.jpg", Zyoon Tv
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Varied Tv" tvg-logo="https://i.postimg.cc/8C6WV2BM/Captura-de-pantalla-2025-08-25-011549.png", Varied Tv
-https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/colorLogoPNG.png", MTV Rocks LatAm
 https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
